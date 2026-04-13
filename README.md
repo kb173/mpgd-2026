@@ -1,4 +1,4 @@
 # mpgd-2026
 Übung
 
-halloo!
+hallo karl :)
